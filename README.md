@@ -1,24 +1,24 @@
-🐣 Please follow me for new updates https://twitter.com/camenduru <br />
-🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
-🥳 Please join my patreon community https://patreon.com/camenduru <br />
+🐣 Bitte folge mir für neue Updates: https://twitter.com/camenduru <br />
+🔥 Trete unserem Discord-Server bei: https://discord.gg/k5BwmmvJJU <br />
+🥳 Trete meiner Patreon-Community bei: https://patreon.com/camenduru <br />
 
-## How to use DreamBooth & LoRA trainer ?
+## Wie verwendet man den DreamBooth & LoRA Trainer?
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/training <br />
-or please select `training` from `switch branches/tags`
+oder wähle `training` unter `switch branches/tags` aus.
 
 ![Screenshot 2023-03-07 050440](https://user-images.githubusercontent.com/54370274/223300990-73645a89-2ef5-4d4e-94a2-633010779e3e.png)
 
-## How to install latest version and ControlNet to Google Drive ?
+## Wie installiert man die neueste Version und ControlNet auf Google Drive?
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/drive <br />
-or please select `drive` from `switch branches/tags`
+oder wähle `drive` unter `switch branches/tags` aus.
 
 ![Screenshot 2023-02-23 165554t](https://user-images.githubusercontent.com/54370274/220930939-1068cd0c-ac29-4a92-9b1d-c67f58f0aff0.png)
 
 <br />
 
-`lite` has a stable WebUI and stable installed extensions. <br />
-`stable` has ControlNet v1.1, a stable WebUI, and stable installed extensions. <br />
-`nightly` has ControlNet v1.1 the latest WebUI with PyTorch 2.0, and daily installed extension updates. <br />
+`lite` enthält eine stabile WebUI und stabile installierte Erweiterungen. <br />
+`stable` enthält ControlNet v1.1, eine stabile WebUI und stabile installierte Erweiterungen. <br />
+`nightly` enthält ControlNet v1.1, die neueste WebUI mit PyTorch 2.0 und tägliche Updates der installierten Erweiterungen. <br />
 
 ## 🦒 Colab
 | lite | stable | nightly | Info - Token - Model Page
